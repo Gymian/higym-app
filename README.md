@@ -4,7 +4,7 @@ A new Flutter project.
 
 Copyright (c) 2022 Shawan Mohammed
 
-## Getting Started
+## Getting Started #
 
 This project is a starting point for a Flutter application.
 
